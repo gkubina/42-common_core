@@ -1,0 +1,21 @@
+NO ./textures/tex_n.xpm
+C 255,255,255
+SO ./textures/tex_s.xpm             
+WE                       ./textures/tex_w.xpm
+EA ./textures/tex_e.xpm
+D  ./textures/door_closed.xpm
+F  0000000000000000000000001,        0,0
+
+11111
+1W001
+10001
+10001
+10001                                                                   
+10001    1
+10001
+10001
+11211
+10001
+11111
+1   1
+11111
